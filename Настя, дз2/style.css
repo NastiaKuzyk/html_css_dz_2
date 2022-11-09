@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(223, 219, 215);
+}
+
+.block {
+    background-color: rgb(68, 139, 104);
+    color: white;
+    text-align: right;
+
+}
